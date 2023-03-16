@@ -6,6 +6,7 @@
  * Return: 0 on sucess
  */
 
+
 int main(void)
 {
 	printf("Size of a char: %lu byte(s)", sizeof(char));
